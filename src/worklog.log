@@ -1,0 +1,2 @@
+#we have to round the todate minus fromdate to get diff exactly 1, due to timestamp
+#before setting date in state convert it to moment date, as it does not take into account the time the math.round shall not be necessary
