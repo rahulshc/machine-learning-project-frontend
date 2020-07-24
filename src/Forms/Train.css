@@ -1,0 +1,12 @@
+.TrainContainer {
+    position: relative;
+    top: 10px;
+    display: flex;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-bottom: 30px;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0);
+}
