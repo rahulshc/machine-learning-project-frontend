@@ -10,3 +10,10 @@
     border-width: 1px;
     border-color: rgba(0, 0, 0, 0);
 }
+
+#canvas { 
+    border: 1px solid #000; 
+    /*background-image: url("sample.jpg"); */
+    background-repeat: no-repeat; 
+    background-size: auto auto;
+}
